@@ -4,6 +4,7 @@
 <tr>
 <td>
   This is a pitch app where someone can make his pitches or create an account
+  
 ## Mobile support
  This is a pitch app where someone can make his pitches or create an account
 
