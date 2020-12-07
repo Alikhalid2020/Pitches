@@ -1,0 +1,4 @@
+
+Hello {{user.username}}
+Welcome to Pitch-Up
+We have received your sign up in our application and we welcome you to Pitch-Up.
