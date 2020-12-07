@@ -4,7 +4,7 @@
 <tr>
 <td>
   This is a pitch app where someone can make his pitches or create an account
-  
+
 ## Mobile support
  This is a pitch app where someone can make his pitches or create an account
 
@@ -22,6 +22,6 @@ To fix a bug or enhance an existing module, follow these steps:
 # Technologies used:
  Python3
 # Author
-KHALID ALI GOSOR
+KHALID ALI GOSO
 # Licence
 MIT
